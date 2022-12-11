@@ -1,2 +1,2 @@
 # Arrow_game
-Aroow_game
+Arrow_game
